@@ -16,11 +16,11 @@
 - [Introduction](#introduction)
 - [Table of contents](#table-of-contents)
 - [Frameworks, Platforms and Libraries](#frameworks-platforms-and-libraries)
+- [Documentation](#documentation)
 - [Contributing](#contributing)
     - [Create a task](#create-a-task)
     - [Fixing a Bug](#fixing-a-bug)
     - [Proposing a Change](#proposing-a-change)
-- [Documentation](#documentation)
 - [Changelog](#changelog)
 - [Copyright and License](#copyright-and-license)
 
@@ -28,6 +28,10 @@
 <!-- https://ileriayo.github.io/markdown-badges/ -->
 [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/)
 [![Gitbook](https://img.shields.io/badge/GitBook-7B36ED?style=for-the-badge&logo=gitbook&logoColor=white)](https://www.gitbook.com/)
+
+# Documentation
+
+You can find all the documentation of this package on this link : [Github Project Template documentation](https://docs-github-project-template.alexis-gousseau.com).
 
 # Contributing
 
@@ -39,15 +43,12 @@ Once your code is working, please verify that your code is following the same co
 
 ### Fixing a Bug
 
-When fixing a bug please make sure to test it in several browsers including ie11. If you are not able to do so, mention that in a PR comment, so other contributors can do it.
+When fixing a bug please make sure to test it in several browsers. If you are not able to do so, mention that in a PR comment, so other contributors can do it.
 
 ### Proposing a Change
 
 When implementing a feature please create an issue first explaining your idea and asking whether there's need for such a feature. Remember the script's core philosophy is to stay simple and minimal, doing one thing and doing it right.
 
-# Documentation
-
-You can find all the documentation of this package on this link : [Github Project Template documentation](https://docs-github-project-template.alexis-gousseau.com).
 
 # Changelog
 
