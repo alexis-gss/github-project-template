@@ -27,7 +27,6 @@
 # Frameworks, Platforms and Libraries
 <!-- https://ileriayo.github.io/markdown-badges/ -->
 [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/)
-[![Gitbook](https://img.shields.io/badge/GitBook-7B36ED?style=for-the-badge&logo=gitbook&logoColor=white)](https://www.gitbook.com/)
 
 # Documentation
 
@@ -52,7 +51,7 @@ When implementing a feature please create an issue first explaining your idea an
 
 # Changelog
 
-Latest version v1.0.0.
+Latest version [v1.0.1](https://github.com/alexis-gss/github-project-template/releases/tag/v1.0.1).
 
 See the [CHANGELOG.md](CHANGELOG.md) file for details.
 
