@@ -9,7 +9,7 @@
 </div>
 
 # Introduction
-[Github Project Template](https://docs-github-project-template.alexis-gousseau.com) is a template dedicated to start a new project in Github.
+[Github Project Template](https://doc-github-project-template.alexis-gousseau.com) is a template dedicated to start a new project in Github.
 
 # Table of contents
 
@@ -30,7 +30,7 @@
 
 # Documentation
 
-You can find all the documentation of this package on this link : [Github Project Template documentation](https://docs-github-project-template.alexis-gousseau.com).
+You can find all the documentation of this package on this link : [Github Project Template documentation](https://doc-github-project-template.alexis-gousseau.com).
 
 # Contributing
 
@@ -57,6 +57,6 @@ See the [CHANGELOG.md](CHANGELOG.md) file for details.
 
 # Copyright and License
 
-[Github Project Template](https://docs-github-project-template.alexis-gousseau.com) was written by [Alexis Gousseau](https://github.com/alexis-gss).
+[Github Project Template](https://alexis-gousseau.com) was written by [Alexis Gousseau](https://github.com/alexis-gss).
 
-Copyright (c) 2024 and beyond Alexis Gousseau.
+Copyright (c) 2025 and beyond Alexis Gousseau.
