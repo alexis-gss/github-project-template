@@ -1,6 +1,6 @@
 <div align="center">
 
-![Banner of the github account](./assets/images/github-visual.png)
+![Banner of the github account](./assets/images/github-visual.jpg)
 
 [![GitHub latest commit](https://img.shields.io/github/last-commit/alexis-gss/github-project-template/develop?color=FFFFFF&style=for-the-badge)](https://github.com/alexis-gss/github-project-template/commit/master)
 [![GitHub tag](https://img.shields.io/github/tag/alexis-gss/github-project-template?style=for-the-badge&color=FFFFFF)](https://github.com/alexis-gss/github-project-template/tags)
