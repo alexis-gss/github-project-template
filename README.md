@@ -1,6 +1,6 @@
 <div align="center">
 
-![Banner of the github account](./assets/images/github-visual.jpg)
+[![Banner of the github account](./assets/images/github-visual.png)](https://doc-github-project-template.alexis-gousseau.com)
 
 [![GitHub latest commit](https://img.shields.io/github/last-commit/alexis-gss/github-project-template/develop?color=FFFFFF&style=for-the-badge)](https://github.com/alexis-gss/github-project-template/commit/master)
 [![GitHub tag](https://img.shields.io/github/tag/alexis-gss/github-project-template?style=for-the-badge&color=FFFFFF)](https://github.com/alexis-gss/github-project-template/tags)
@@ -51,12 +51,12 @@ When implementing a feature please create an issue first explaining your idea an
 
 # Changelog
 
-Latest version [v1.0.2](https://github.com/alexis-gss/github-project-template/releases/tag/v1.0.2).
+Latest version [v1.1.0](https://github.com/alexis-gss/github-project-template/releases/tag/v1.1.0).
 
 See the [CHANGELOG.md](CHANGELOG.md) file for details.
 
 # Copyright and License
 
-[Github Project Template](https://alexis-gousseau.com) was written by [Alexis Gousseau](https://github.com/alexis-gss).
+[Github Project Template]((https://doc-github-project-template.alexis-gousseau.com)) was written by [Alexis Gousseau](https://github.com/alexis-gss).
 
 Copyright (c) 2025 and beyond Alexis Gousseau.
